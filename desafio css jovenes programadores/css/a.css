@@ -10,7 +10,6 @@ header{
     overflow: hidden;
 }
 
-
 h1{
     font-size: 70px;
     margin-bottom: 0;
@@ -23,24 +22,6 @@ main{
     
     align-items: center;
 
-}
-
-
-
-.ht{
-    display: flex;
-    align-items: center;
-}
-
-.cs{
-    display: flex;
-    align-items: center;
-    
-}
-
-.java{
-    display: flex;
-    align-items: center;
 }
 
 .next {
@@ -65,20 +46,7 @@ img{
     height: 120px;
     object-fit: contain;
 }
-caption{
-    font-size: 20px;
-}
 
-.text{
-    width: 400px;
-}
 
-.list{
-    width: 300px;
-    height: 120px;
-}
 
-.active{
-    background-color: #7fffdd;
-}
 
